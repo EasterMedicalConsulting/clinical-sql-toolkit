@@ -86,3 +86,4 @@ MIT License — free to use, adapt, and share with attribution.
 ---
 
 *Built by a physician who writes SQL — because the gap between clinical knowledge and data infrastructure is still too wide.*
+*Note that I utilize AI assistance in both my writing and code generation.  Output is my own, process is augmented*
