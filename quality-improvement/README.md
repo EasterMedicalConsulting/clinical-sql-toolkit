@@ -19,7 +19,6 @@ QI analytics differ from registry queries in an important way: the denominator d
 Document your denominator decisions. QI data loses credibility fast when two people run the "same" query and get different numbers.
 
 ---
----
 
 ## Disclaimer
 
